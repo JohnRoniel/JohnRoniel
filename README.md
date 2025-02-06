@@ -8,11 +8,11 @@ Atualmente, estou me aprofundando em TDD (Test-Driven Development) e aprimorando
 Também tenho experiência com desenvolvimento Front-End, o que me ajuda a ter uma visão mais completa das aplicações web.
 
 🛠️ Tecnologias & Ferramentas
-- Back-End: Node.js (Express), PHP
-- Banco de Dados: MySQL, MongoDB
+- Back-End: Node.js (Express/Fastify), PHP(Laravel)
+- Banco de Dados: SQL(MySQL), NoSQL(MongoDB)
 - Testes & API: Postman, TDD (Mocha, Chai)
 - Versionamento: Git
-- Outros: Arquitetura MVC, REST APIs
+- Outros: Arquitetura MVC, API REST 
   
 🎓 Futuramente quero ingressar ao curso de Análise e Desenvolvimento de Sistemas na UFCG para expandir ainda mais meu conhecimento acadêmico na área.
 
